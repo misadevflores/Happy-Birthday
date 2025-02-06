@@ -6,7 +6,7 @@ var w = c.width = window.innerWidth,
 		hh = h / 2,
 		
 		opts = {
-			strings: [ 'HAPPY', 'BIRTHDAY!', 'KEVIN BRAYAN GOMEZ' ,'Cada bug que resuelves','te hace más fuerte'],
+			strings: [ 'HAPPY', 'BIRTHDAY!', 'KEVIN BRAYAN GOMEZ' ,'Cada bug que resuelves','te hace más fuerte','🎉@misadev'],
 			charSize: 30,
 			charSpacing: 35,
 			lineHeight: 40,

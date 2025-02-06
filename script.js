@@ -6,10 +6,7 @@ var w = c.width = window.innerWidth,
 		hh = h / 2,
 		
 		opts = {
-			strings: [ 'HAPPY', 'BIRTHDAY!', 'KEVIN BRAYAN GOMEZ' ,'Los programas deben ser escritos para que', 
-				  ' las personas lo lean y sólo', 
-				  'casualmente para que',
-				  ' las máquinas lo ejecuten'],
+			strings: [ 'HAPPY', 'BIRTHDAY!', 'KEVIN BRAYAN GOMEZ' ,'Cada bug que resuelves te hace más fuerte'],
 			charSize: 30,
 			charSpacing: 35,
 			lineHeight: 40,
